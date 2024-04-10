@@ -16,15 +16,15 @@ Thank you for the opportunity to showcase to you my work!
 
 ### Main Desktop View
 
-![SWM Challenge Desktop View](src/assets/screenshots/desktop.png)
+![SWM Challenge Desktop View](assets/screenshots/desktop.png)
 
 
 
 ### Mobile Views
 
 <div style="display: flex; justify-content: center;">
-  <img src="src/assets/screenshots/mobile-view-1.png" alt="SWM Challenge Mobile View" width="300" style="margin-right: 20px;">
-  <img src="src/assets/screenshots/mobile-view-2.png" alt="SWM Challenge Mobile View" width="300">
+  <img src="assets/screenshots/mobile-view-1.png" alt="SWM Challenge Mobile View" width="300" style="margin-right: 20px;">
+  <img src="assets/screenshots/mobile-view-2.png" alt="SWM Challenge Mobile View" width="300">
 </div>
 
 
@@ -32,10 +32,10 @@ Thank you for the opportunity to showcase to you my work!
 ### Tablet View
 
 <div style="display: flex; justify-content: center;">
-  <img src="src/assets/screenshots/tablet-view-1.png" alt="SWM Challenge Tablet View" width="500" style="margin-bottom: 50px;">
+  <img src="assets/screenshots/tablet-view-1.png" alt="SWM Challenge Tablet View" width="500" style="margin-bottom: 50px;">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="src/assets/screenshots/tablet-view-2.png" alt="SWM Challenge Tablet View" width="500">
+  <img src="assets/screenshots/tablet-view-2.png" alt="SWM Challenge Tablet View" width="500">
 </div>
 
