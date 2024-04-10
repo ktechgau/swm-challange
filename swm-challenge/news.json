@@ -7,7 +7,11 @@
          },
          "head":"Why inflation could drive the next quitting wave",
          "teaser":"The Great Resignation could be spreading to new sectors where even middle- and high-wage workers are seeking big pay raises to ease the sting of inflation.",
-         "image": "src/assets/64f50dc6ef8647751268e03a3400477204c400f4.jpg"
+         "image": "src/assets/64f50dc6ef8647751268e03a3400477204c400f4.jpg",
+         "hide_image": false,
+         "is_main": true,
+         "is_featured": false,
+         "headline_only": false
       },
       {
          "id":"038",
@@ -16,7 +20,11 @@
          },
          "head":"New Rio chair plays down Russia, China comparison",
          "teaser":"Rio Tinto’s incoming chairman has warned the world would be in a “devastating situation” if relationships with China deteriorated.",
-         "image": "src/assets/059237d4a27f2bd1dbc60a9d1d3227df1faa2de7.jpg"
+         "image": "src/assets/059237d4a27f2bd1dbc60a9d1d3227df1faa2de7.jpg",
+         "hide_image": false,
+         "is_main": false,
+         "is_featured": true,
+         "headline_only": false
       },
       {
          "id":"310",
@@ -25,7 +33,11 @@
          },
          "head":"Groundbreaking move for crypto traders",
          "teaser":"A major Aussie crypto exchange is breaking new ground with an offering that it hopes will entrench the likes of Bitcoin in the financial ecosystem.",
-         "image": "src/assets/8dc2b01abf9fd280d0957c6d8a5dcf90c081bb1c.jpg"
+         "image": "src/assets/8dc2b01abf9fd280d0957c6d8a5dcf90c081bb1c.jpg",
+         "hide_image": true,
+         "is_main": false,
+         "is_featured": false,
+         "headline_only": false
       },
       {
          "id":"001",
@@ -34,7 +46,12 @@
          },
          "head":"China’s COVID restrictions are hitting big businesses",
          "teaser":"Several international corporations warned in the last week the drag from China’s Covid controls will hit their entire business.",
-         "image": "src/assets/75257e574a0da626371f94a04633be7afb3cca62.jpg"
+         "image": "src/assets/75257e574a0da626371f94a04633be7afb3cca62.jpg",
+         "hide_image": true,
+         "is_main": false,
+         "is_featured": false,
+         "headline_only": false
+         
       },
       {
          "id":"204",
@@ -43,7 +60,11 @@
          },
          "head":"Beef recovers but supply pressures remain",
          "teaser":"Australia's beef cattle herd will continue to grow but a report says supply chain constraints will impede sector growth.",
-         "image": "src/assets/8ab07480538cef0a04a38a7867f708d0f4eba6a0-16x9-x0y0w1280h720.jpg"
+         "image": "src/assets/8ab07480538cef0a04a38a7867f708d0f4eba6a0-16x9-x0y0w1280h720.jpg",
+         "hide_image": false,
+         "is_main": false,
+         "is_featured": false,
+         "headline_only": false
       },
       {
          "id":"377",
@@ -52,7 +73,11 @@
          },
          "head":"Flight Centre launches new premium travel joint venture",
          "teaser":"Flight Centre will aim to capitalise on surging post-COVID travel demand by launching a new group with two Sydney-based travel companies targeting premium and business travellers.",
-         "image": "src/assets/0c58c11e2890a3286952989feb8940184184f769.jpg"
+         "image": "src/assets/0c58c11e2890a3286952989feb8940184184f769.jpg",
+         "hide_image": true,
+         "is_main": false,
+         "is_featured": false,
+         "headline_only": true
       },
       {
          "id":"525",
@@ -61,7 +86,11 @@
          },
          "head":"‘Brand WA’: Call for State to get jump on global trade links",
          "teaser":"WA’s peak business body is urging Mark McGowan to reverse the “reputational damage” caused by two years of closed borders by focusing on international trade in next week’s State Budget.",
-         "image": "src/assets/398bebbb679e0eb128c6b1a0966d23550ec0c585-16x9-x0y1150w3072h1728.jpg"
+         "image": "src/assets/398bebbb679e0eb128c6b1a0966d23550ec0c585-16x9-x0y1150w3072h1728.jpg",
+         "hide_image": true,
+         "is_main": true,
+         "is_featured": false,
+         "headline_only": true
       },
       {
          "id":"307",
@@ -70,7 +99,11 @@
          },
          "head":"Qantas makes major play for more of FIFO charter market",
          "teaser":"Qantas has reached a deal to fully acquire Australian-based operator Alliance Aviation Services, enabling it to better serve the growing resources sector.",
-         "image": "src/assets/b1cdf19932267dd7fcffc791b2ca60ff44b808bf.jpg"
+         "image": "src/assets/b1cdf19932267dd7fcffc791b2ca60ff44b808bf.jpg",
+         "hide_image": true,
+         "is_main": true,
+         "is_featured": false,
+         "headline_only": true
       },
       {
          "id":"108",
@@ -79,7 +112,11 @@
          },
          "head":"Chief Justice puts boot into CITIC, Palmer legal plays",
          "teaser":"WA’s top judge has blasted the high-cost litigation methods of Clive Palmer and the companies that have made him an iron ore billionaire.",
-         "image": "src/assets/c33d85881e6ee98cd272febd72977a4f0fb0974b.jpg"
+         "image": "src/assets/c33d85881e6ee98cd272febd72977a4f0fb0974b.jpg",
+         "hide_image": true,
+         "is_main": true,
+         "is_featured": false,
+         "headline_only": true
       },
       {
          "id":"596",
@@ -88,7 +125,11 @@
          },
          "head":"Banks lag but ASX still up 0.6pc ",
          "teaser":"Three of the four big banks are down but most of the ASX has gained in morning trade.",
-         "image": "src/assets/be302efa52fd296d24e31ad6fa624f9c5dbb6b35-16x9-x0y0w1280h720.jpg"
+         "image": "src/assets/be302efa52fd296d24e31ad6fa624f9c5dbb6b35-16x9-x0y0w1280h720.jpg",
+         "hide_image": false,
+         "is_main": true,
+         "is_featured": false,
+         "headline_only": true
       },
       {
          "id":"509",
@@ -97,7 +138,11 @@
          },
          "head":"Silk stink as MinRes braces for battle over Wyatt papers",
          "teaser":"The legal battle between Mineral Resources and co-founder Steve Wyatt’s rival new venture Destec has descended into an argument between senior barristers about what they are arguing about.",
-         "image": "src/assets/7bedab86c49e4d0ab7d58ddeec4043f2817968c2.jpg"
+         "image": "src/assets/7bedab86c49e4d0ab7d58ddeec4043f2817968c2.jpg",
+         "hide_image": false,
+         "is_main": true,
+         "is_featured": false,
+         "headline_only": true
       }
    ]
 }
