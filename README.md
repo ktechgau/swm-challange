@@ -12,6 +12,8 @@ CSS was used for styling.
 
 Thank you for the opportunity to showcase to you my work!
 
+- Please note: It seems the story about "Oil giant Shell..." was not in the data, so I replaced this story with the extra story property that was provided.
+
 ## Screenshots
 
 ### Main Desktop View
