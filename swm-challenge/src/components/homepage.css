@@ -12,8 +12,8 @@
     align-items: stretch;
     height: 50vh;
     width:auto;
-  
 }
+
 .feature-story{
     display:flex;
     flex:3;
@@ -40,8 +40,6 @@
     max-width: 100%;
     height:100%;
 }
-
-
 
 .feature-story-sub{
     flex:1;
@@ -93,6 +91,7 @@
     width:100%;
     height:50%;
     position: relative;
+    border-bottom:#d3d3d3 solid 1px;
 }
 
 .o-auth, .f-auth{
@@ -109,4 +108,110 @@
 .other-stories-sub article{
     border-bottom:#d3d3d3 solid 1px;
     padding:1.5rem;
+}
+
+@media (max-width: 1024px) {
+    .news-page {
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    }
+  
+    .feature-story-container{
+    flex-direction:column;
+    justify-items:center;
+    align-items: center;
+    height:100vh;
+    }
+  
+    .feature-story{
+        flex-direction:column;
+    }
+
+    .feature-text{
+        flex:0;
+    }
+ 
+    .feature-story-sub{
+        flex:0;
+        flex-direction: column;
+    }
+    
+    .feature-story-sub-image{
+        width:100%;
+        height:auto;
+    }
+
+.o-auth, .f-auth{
+    bottom:0;
+    position:relative;
+}
+
+.other-stories-container{
+    flex-direction: column;
+    margin-top: 20rem;
+}
+
+
+.other-stories-image{
+    width:100%;
+    height:auto;
+    }
+
+
+.other-stories-sub{
+    margin-top:8rem;
+    border-top:#d3d3d3 solid 1px;
+}
+
+
+.o-sub2{
+    margin-top:4rem;
+   
+}
+
+}
+
+@media (max-width: 430px) {
+
+    .feature-story-container{
+    margin:0 2rem;
+    padding:2rem;
+    width: 100vw;
+    height:auto;
+    overflow:hidden;
+    }
+
+    .other-stories-container{
+        flex-direction: column;
+        margin: 0 2rem;
+        padding: 1rem;
+    }
+
+    .other-stories-main{
+        flex-direction: column;
+    }
+
+    .other-stories-sub{
+        margin-top:58rem;
+    }
+
+    .o-story1, 
+.o-story2, 
+.o-story3{
+    border-right: none;
+    border-bottom: #d3d3d3 solid 1px;
+}
+
+.o-sub2{
+    margin:1rem auto 4rem auto; 
+    
+}
+
+@media (max-width: 378px) {
+    .other-stories-sub{
+        margin-top:70rem;
+    }
+}
+
 }
